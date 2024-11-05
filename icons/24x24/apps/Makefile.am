@@ -50,7 +50,13 @@ icons_DATA = 				 		\
 		system-software-install.png 		\
 		thunderbird.png 		\
 		utilities-terminal.png 		\
-		xsane.png
+		xsane.png \
+		libreoffice-base.png \
+		libreoffice-calc.png \ 
+		libreoffice-draw.png \ 
+		libreoffice-impress.png \
+		libreoffice-math.png \
+		libreoffice-writer.png
 EXTRA_DIST = $(icons_DATA)
 
 install-data-local: install-iconsDATA

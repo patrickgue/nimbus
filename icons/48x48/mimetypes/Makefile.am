@@ -138,7 +138,13 @@ icons_DATA = 				 		\
 		video-x-generic.png 		\
 		x-office-document.png 		\
 		x-office-presentation.png 		\
-		x-office-spreadsheet.png
+		x-office-spreadsheet.png \
+		libreoffice-base.png \
+		libreoffice-calc.png \
+		libreoffice-draw.png \
+		libreoffice-impress.png \
+		libreoffice-math.png \
+		libreoffice-writer.png
 EXTRA_DIST = $(icons_DATA)
 
 install-data-local: install-iconsDATA

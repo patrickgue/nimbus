@@ -27,7 +27,13 @@ icons_DATA = 				 		\
 		searchtool.png 		\
 		system-print-queue-monitor.png 		\
 		system-software-install.png 		\
-		thunderbird.png
+		thunderbird.png \
+		libreoffice-base.png \
+		libreoffice-calc.png \ 
+		libreoffice-draw.png \ 
+		libreoffice-impress.png \
+		libreoffice-math.png \
+		libreoffice-writer.png
 EXTRA_DIST = $(icons_DATA)
 
 install-data-local: install-iconsDATA
