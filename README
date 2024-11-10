@@ -1,3 +1,11 @@
+This is a fork of the default openindiana theme with minor changes to the original:
+
+* adding the gnome-autogen.sh script for standalone building the theme
+* change the window control icons in the metacity theme to be perfectly square
+* Add icons for libreoffice from other icon themes to better match the general style of the theme
+
+---
+
 This is a repository for default OpenIndiana theme.
 
 After modifying theme, be sure to check how /usr/demo/jds/bin/gtk-demo, /usr/demo/jds/bin/gtk3-demo look
