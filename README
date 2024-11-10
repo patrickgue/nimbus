@@ -1,6 +1,6 @@
 This is a fork of the default openindiana theme with minor changes to the original:
 
-* adding the gnome-autogen.sh script for standalone building the theme
+* adding the gnome-autogen.sh script for standalone building of the theme
 * change the window control icons in the metacity theme to be perfectly square
 * Add icons for libreoffice from other icon themes to better match the general style of the theme
 
